@@ -1,0 +1,11 @@
+G:\Projects\Dot net project\EduTenant\Domain\bin\Debug\net8.0\Domain.deps.json
+G:\Projects\Dot net project\EduTenant\Domain\bin\Debug\net8.0\Domain.dll
+G:\Projects\Dot net project\EduTenant\Domain\bin\Debug\net8.0\Domain.pdb
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.dll
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\refint\Domain.dll
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.pdb
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\ref\Domain.dll
