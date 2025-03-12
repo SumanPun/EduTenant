@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "G:\\Projects\\Dot net project\\EduTenant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\tenancy\\edutenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\tenancy\\edutenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbinitilizer\\applicationdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbinitilizer\\applicationdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbinitilizer\\tenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbinitilizer\\tenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbinitilizer\\itenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbinitilizer\\itenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\persistenceserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\persistenceserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EduTenantInfo.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\EduTenantInfo.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\EduTenantInfo.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\EduTenantInfo.cs*",
-              "RelativeToolTip": "Infrastructure\\Tenancy\\EduTenantInfo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ITenantDbInitilizer.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T05:11:37.793Z",
+              "WhenOpened": "2025-03-11T11:38:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TenantDbInitilizer.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
+              "ViewState": "AgIAACMAAAAAzczMzMwYwAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:31:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:27:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityServiceExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "ViewState": "AgIAAAUAAABgZmZmZmYkwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:20:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbInitilizer.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
+              "ViewState": "AgIAAB4AAAAAMzMzMzMLwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:19:16.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistenceServiceExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
+              "ViewState": "AgIAAAYAAABgZmZmZmYkwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:17:14.317Z",
               "EditorCaption": ""
             }
           ]

@@ -9,3 +9,4 @@ G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.dll
 G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\refint\Domain.dll
 G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.pdb
 G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\ref\Domain.dll
+G:\Projects\Dot net project\EduTenant\Domain\obj\Debug\net8.0\Domain.sourcelink.json

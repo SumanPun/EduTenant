@@ -13,3 +13,4 @@ G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.d
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\refint\Application.dll
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.pdb
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\ref\Application.dll
+G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.sourcelink.json

@@ -17,3 +17,4 @@ G:\Projects\Dot net project\EduTenant\Infrastructure\obj\Debug\net8.0\Infrastruc
 G:\Projects\Dot net project\EduTenant\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 G:\Projects\Dot net project\EduTenant\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 G:\Projects\Dot net project\EduTenant\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+G:\Projects\Dot net project\EduTenant\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

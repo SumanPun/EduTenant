@@ -10,6 +10,8 @@
         }
 
         public const string DefaultPassword = "Sch00l@root"; 
-        public const string TenantIdName = "tenant"; 
+        public const string TenantIdName = "tenant";
+        public const string FirstName = "John";
+        public const string LastName = "Doe";
     }
 }
