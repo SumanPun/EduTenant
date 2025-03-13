@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Persistence.DbInitilizer
 {
-    internal class ApplicationDbInitilizer(EduTenantInfo tenant,
+    public class ApplicationDbInitilizer(EduTenantInfo tenant,
         RoleManager<ApplicationRole> roleManager,
         UserManager<ApplicationUser> userManager,
         ApplicationDbContext applicationDbContext) 
