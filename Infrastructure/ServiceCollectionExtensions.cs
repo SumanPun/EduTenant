@@ -1,6 +1,7 @@
 ﻿using Infrastructure.Identity;
 using Infrastructure.Persistence;
 using Infrastructure.Tenancy;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -13,7 +14,13 @@ namespace Infrastructure
             return services
                 .AddMultiTenancyServices(configuration)
                 .AddPersistenceService(configuration)
-                .AddIdentityServices();
+                .AddIdentityServices()
+                .AddPermissions();
+        }
+
+        public static IApplicationBuilder UseInfrastructure(this IApplicationBuilder application)
+        {
+            return application.UseCurrentUser();
         }
     }
 }

@@ -13,7 +13,7 @@ namespace Infrastructure.Identity
             => principal.FindFirstValue(ClaimTypes.Name);
         public static string GetLastName(this ClaimsPrincipal principal)
             => principal.FindFirstValue(ClaimTypes.Surname);
-        public static string GetTenangt(this ClaimsPrincipal principal)
+        public static string GetTenant(this ClaimsPrincipal principal)
             => principal.FindFirstValue(ClaimConstants.Tenant);
         public static string GetMobileNumber(this ClaimsPrincipal principal)
             => principal.FindFirstValue(ClaimTypes.MobilePhone);

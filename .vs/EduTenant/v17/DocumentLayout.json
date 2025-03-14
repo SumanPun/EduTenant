@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "G:\\Projects\\Dot net project\\EduTenant\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\auth\\shouldhavepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\auth\\shouldhavepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\auth\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\auth\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\auth\\permissionpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\auth\\permissionpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\auth\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\auth\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\auth\\currentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\auth\\currentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\users\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\users\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\claimprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\claimprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\roles\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\exceptions\\identityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\roles\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\roles\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\claimprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\claimprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\tokens\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +182,262 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShouldHavePermission.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\ShouldHavePermission.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Auth\\ShouldHavePermission.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\ShouldHavePermission.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Auth\\ShouldHavePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:54:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PermissionAuthorizationHandler.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\PermissionAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Auth\\PermissionAuthorizationHandler.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\PermissionAuthorizationHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Auth\\PermissionAuthorizationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:39:17.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\IUserService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\IUserService.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAgAAAAwMzMzMzM6wBEAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:29:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityServiceExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
+              "ViewState": "AgIAAB4AAADgzMzMzMwmwC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:13:54.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAMzMzMzMLwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:20:33.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermissionPolicyProvider.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\PermissionPolicyProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Auth\\PermissionPolicyProvider.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\PermissionPolicyProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Auth\\PermissionPolicyProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:28:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermissionRequirement.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\PermissionRequirement.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Auth\\PermissionRequirement.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\PermissionRequirement.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Auth\\PermissionRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:26:20.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:22:47.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrentUserMiddleware.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\CurrentUserMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Auth\\CurrentUserMiddleware.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Auth\\CurrentUserMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Auth\\CurrentUserMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:13:54.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Users\\CurrentUserService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\CurrentUserService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Users\\CurrentUserService.cs",
+              "ViewState": "AgIAACEAAABAZmZmZmYwwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:01:29.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAEAAAAAMzMzMzMLwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:55:53.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Users\\UserService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Users\\UserService.cs",
+              "ViewState": "AgIAAMIAAADAzMzMzMwcwPcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:57:51.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:39:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClaimPrincipleExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:39:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:34:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:31:33.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "ViewState": "AgIAAFcAAADAzMzMzMwgwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:16:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UserRoleDto.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\UserRoleDto.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:41:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UserDto.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\UserDto.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:45:53.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:30:33.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "PermissionConstants.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Constants\\PermissionConstants.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Identity\\Constants\\PermissionConstants.cs",
@@ -122,12 +445,11 @@
               "RelativeToolTip": "Infrastructure\\Identity\\Constants\\PermissionConstants.cs",
               "ViewState": "AgIAACEAAAAAmZmZmZkRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:17:54.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T12:17:54.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "ConflictException.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Exceptions\\ConflictException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\ConflictException.cs",
@@ -135,12 +457,11 @@
               "RelativeToolTip": "Application\\Exceptions\\ConflictException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:42:49.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:42:49.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\NotFoundException.cs",
@@ -148,25 +469,11 @@
               "RelativeToolTip": "Application\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:37:30.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:37:30.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "ViewState": "AgIAAEcAAADQzMzMzEw0wGAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:16:50.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "IRoleService.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\IRoleService.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\IRoleService.cs",
@@ -174,12 +481,11 @@
               "RelativeToolTip": "Application\\Features\\Identity\\Roles\\IRoleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:01:15.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:01:15.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "RoleDto.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\RoleDto.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\RoleDto.cs",
@@ -187,25 +493,11 @@
               "RelativeToolTip": "Application\\Features\\Identity\\Roles\\RoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:09:55.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:09:55.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IdentityServiceExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "ViewState": "AgIAAAgAAACAMzMzMzMLwB0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:13:54.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "IdentityException.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Exceptions\\IdentityException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\IdentityException.cs",
@@ -213,12 +505,11 @@
               "RelativeToolTip": "Application\\Exceptions\\IdentityException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:29:27.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:29:27.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "UnAuthorizedException.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Exceptions\\UnAuthorizedException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\UnAuthorizedException.cs",
@@ -226,12 +517,11 @@
               "RelativeToolTip": "Application\\Exceptions\\UnAuthorizedException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T09:26:08.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T09:26:08.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "UpdateRolePermissionsRequest.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\UpdateRolePermissionsRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\UpdateRolePermissionsRequest.cs",
@@ -239,12 +529,11 @@
               "RelativeToolTip": "Application\\Features\\Identity\\Roles\\UpdateRolePermissionsRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:06:51.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:06:51.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "UpdateRoleRequest.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\UpdateRoleRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\UpdateRoleRequest.cs",
@@ -252,12 +541,11 @@
               "RelativeToolTip": "Application\\Features\\Identity\\Roles\\UpdateRoleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:03:48.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:03:48.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "CreateRoleRequest.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\CreateRoleRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\CreateRoleRequest.cs",
@@ -265,12 +553,11 @@
               "RelativeToolTip": "Application\\Features\\Identity\\Roles\\CreateRoleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:02:19.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:02:19.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "TokenService.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Tokens\\TokenService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Identity\\Tokens\\TokenService.cs",
@@ -278,24 +565,11 @@
               "RelativeToolTip": "Infrastructure\\Identity\\Tokens\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:16:07.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T08:16:07.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClaimPrincipleExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\ClaimPrincipleExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T09:39:25.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "RefreshTokenRequest.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Tokens\\RefreshTokenRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Tokens\\RefreshTokenRequest.cs",
@@ -307,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "TokenRequest.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Tokens\\TokenRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Tokens\\TokenRequest.cs",
@@ -319,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "TokenResponse.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Tokens\\TokenResponse.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Tokens\\TokenResponse.cs",
@@ -331,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Tokens\\ITokenService.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Identity\\Tokens\\ITokenService.cs",
@@ -343,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "TenantDto.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Tenancy\\Models\\TenantDto.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Tenancy\\Models\\TenantDto.cs",
@@ -355,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "ApplicationDbInitilizer.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
@@ -367,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "TenantService.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenantService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenantService.cs",
@@ -379,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "ITenantService.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Tenancy\\ITenantService.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Tenancy\\ITenantService.cs",
@@ -391,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "CreateTenantRequest.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Tenancy\\Commands\\CreateTenantRequest.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Tenancy\\Commands\\CreateTenantRequest.cs",
