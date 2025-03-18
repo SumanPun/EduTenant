@@ -8,9 +8,9 @@ G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.G
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.sourcelink.json
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.dll
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\refint\Application.dll
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.pdb
 G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\ref\Application.dll
-G:\Projects\Dot net project\EduTenant\Application\obj\Debug\net8.0\Application.sourcelink.json

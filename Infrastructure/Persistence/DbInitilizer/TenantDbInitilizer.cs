@@ -1,5 +1,4 @@
 ﻿using Finbuckle.MultiTenant;
-using Finbuckle.MultiTenant.Abstractions;
 using Infrastructure.Persistence.Context;
 using Infrastructure.Tenancy;
 using Microsoft.EntityFrameworkCore;
@@ -41,17 +40,16 @@ namespace Infrastructure.Persistence.DbInitilizer
             }
         }
 
-
         private async Task InitilizeApplicationDbForTenantAsync(EduTenantInfo tenant, CancellationToken cancellationToken)
         {
             using var scope = _serviceProvider.CreateScope();
 
-            _serviceProvider.GetRequiredService<IMultiTenantContextSetter>()
+            _serviceProvider.GetRequiredService<IMultiTenantContextAccessor>()
                 .MultiTenantContext = new MultiTenantContext<EduTenantInfo>()
                 {
                     TenantInfo = tenant
                 };
-
+            
             await _serviceProvider.GetRequiredService<ApplicationDbInitilizer>()
                 .InitilizeDatabaseAsync(cancellationToken);
 

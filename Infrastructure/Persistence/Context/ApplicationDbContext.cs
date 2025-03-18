@@ -1,5 +1,5 @@
 ﻿using Domain.Entities;
-using Finbuckle.MultiTenant.Abstractions;
+using Finbuckle.MultiTenant;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Persistence.Context

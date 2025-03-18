@@ -1,4 +1,4 @@
-﻿using Finbuckle.MultiTenant.EntityFrameworkCore.Stores.EFCoreStore;
+﻿using Finbuckle.MultiTenant.Stores;
 using Infrastructure.Persistence.DbConfiguration;
 using Microsoft.EntityFrameworkCore;
 

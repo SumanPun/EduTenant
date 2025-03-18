@@ -27,7 +27,8 @@ namespace Infrastructure.Persistence.DbInitilizer
         {
             foreach(string roleName in RoleConstants.DefaultRoles)
             {
-                if(await _roleManager.Roles.SingleOrDefaultAsync(role => role.Name == roleName, cancellationToken) is not ApplicationRole incomingRole)
+                if(await _roleManager.Roles.SingleOrDefaultAsync(role => role.Name == roleName, cancellationToken)
+                    is not ApplicationRole incomingRole)
                 {
                     incomingRole = new ApplicationRole() { Name = roleName, Description = $"{roleName} Role" };
                     await _roleManager.CreateAsync(incomingRole);
@@ -36,11 +37,11 @@ namespace Infrastructure.Persistence.DbInitilizer
                 //assign permissions to newly added role
                 if(roleName == RoleConstants.Basic)
                 {
-                    await AssaignPermissionsToRole(SchoolPermissions.Basic, incomingRole, cancellationToken);
+                    await AssaignPermissionsToRole(_applicationDbContext, SchoolPermissions.Basic, incomingRole, cancellationToken);
                 }
                 else if(roleName == RoleConstants.Admin)
                 {
-                    await AssaignPermissionsToRole(SchoolPermissions.Admin, incomingRole, cancellationToken);
+                    await AssaignPermissionsToRole(_applicationDbContext, SchoolPermissions.Admin, incomingRole, cancellationToken);
                 }
 
             }
@@ -83,6 +84,7 @@ namespace Infrastructure.Persistence.DbInitilizer
         }
 
         private async Task AssaignPermissionsToRole(
+            ApplicationDbContext applicationDbContext,
             IReadOnlyList<SchoolPermission> rolePermissions,
             ApplicationRole currentRole, CancellationToken cancellationToken)
         {
@@ -91,14 +93,14 @@ namespace Infrastructure.Persistence.DbInitilizer
             {
                 if(!currentClaims.Any(c => c.Type == ClaimConstants.Permission && c.Value == rolePermission.Name))
                 {
-                    await _applicationDbContext.RoleClaims.AddAsync(new IdentityRoleClaim<string>
+                    await applicationDbContext.RoleClaims.AddAsync(new IdentityRoleClaim<string>
                     {
                         RoleId = currentRole.Id,
                         ClaimType = ClaimConstants.Permission,
                         ClaimValue = rolePermission.Name
                     }, cancellationToken);
 
-                    await _applicationDbContext.SaveChangesAsync(cancellationToken);
+                    await applicationDbContext.SaveChangesAsync(cancellationToken);
                 }
             }
         }

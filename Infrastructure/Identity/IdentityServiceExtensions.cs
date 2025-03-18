@@ -2,15 +2,18 @@
 using Application.Features.Identity.Tokens;
 using Application.Features.Identity.Users;
 using Infrastructure.Identity.Auth;
+using Infrastructure.Identity.Auth.Jwt;
 using Infrastructure.Identity.Models;
 using Infrastructure.Identity.Roles;
 using Infrastructure.Identity.Tokens;
 using Infrastructure.Identity.Users;
 using Infrastructure.Persistence.Context;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 
 namespace Infrastructure.Identity
 {
@@ -48,6 +51,22 @@ namespace Infrastructure.Identity
             return services
                 .AddSingleton<IAuthorizationPolicyProvider, PermissionPolicyProvider>()
                 .AddScoped<IAuthorizationHandler, PermissionAuthorizationHandler>();
+        }
+
+        internal static IServiceCollection AddJwtAuthentication(this IServiceCollection services)
+        {
+            services
+                .AddOptions<JwtSettings>()
+                .BindConfiguration("JwtSettings");
+
+            services
+                .AddSingleton<IConfigureOptions<JwtBearerOptions>, ConfigureJwtBearerOptions>();
+            return services
+                .AddAuthentication(auth =>
+                {
+                    auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                    auth.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                }).Services;
         }
     }
 }

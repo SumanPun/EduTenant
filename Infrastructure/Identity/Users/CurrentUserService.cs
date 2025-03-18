@@ -50,11 +50,11 @@ namespace Infrastructure.Identity.Users
 
         public void SetCurrentUser(ClaimsPrincipal principal)
         {
-            if(principal is not null)
-            {
-                _principle = principal;
+            if(_principle is not null)
+            { 
+                throw new ConflictException("Invalid operation on claim.");
             }
-            throw new ConflictException("Invalid operation on claim.");
+            _principle = principal;
         }
     }
 }

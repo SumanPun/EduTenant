@@ -1,4 +1,4 @@
-﻿using Finbuckle.MultiTenant.Abstractions;
+﻿using Finbuckle.MultiTenant;
 
 namespace Infrastructure.Tenancy
 {

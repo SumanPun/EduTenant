@@ -1,6 +1,6 @@
 ﻿using Application.Exceptions;
 using Application.Features.Identity.Users;
-using Finbuckle.MultiTenant.Abstractions;
+using Finbuckle.MultiTenant;
 using Infrastructure.Identity.Constants;
 using Infrastructure.Identity.Models;
 using Infrastructure.Persistence.Context;

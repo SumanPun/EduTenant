@@ -1,9 +1,11 @@
 ﻿using Application.Exceptions;
 using Application.Features.Identity.Tokens;
+using Infrastructure.Identity.Auth.Jwt;
 using Infrastructure.Identity.Constants;
 using Infrastructure.Identity.Models;
 using Infrastructure.Tenancy;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -12,10 +14,11 @@ using System.Text;
 
 namespace Infrastructure.Identity.Tokens
 {
-    public class TokenService(UserManager<ApplicationUser> userManager, EduTenantInfo tenant) : ITokenService
+    public class TokenService(UserManager<ApplicationUser> userManager, EduTenantInfo tenant, IOptions<JwtSettings> jwtSettings) : ITokenService
     {
         private readonly UserManager<ApplicationUser> _userManager = userManager;
         private readonly EduTenantInfo _tenant = tenant;
+        private readonly JwtSettings _jwtSettings = jwtSettings.Value;
 
         public async Task<TokenResponse> LoginAsync(TokenRequest request)
         {
@@ -57,7 +60,7 @@ namespace Infrastructure.Identity.Tokens
             var tokenValidationParams = new TokenValidationParameters
             {
                 ValidateIssuerSigningKey = true,
-                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("EduT3n@nTD3v3l0p3R@@!!s01")),
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Key)),
                 ValidateIssuer = false,
                 ValidateAudience = false,
                 ClockSkew = TimeSpan.Zero,
@@ -82,7 +85,7 @@ namespace Infrastructure.Identity.Tokens
             string newToken = GenerateJwt(user);
 
             user.RefreshToken = GenerateRefreshToken();
-            user.RefreshTokenExpiryTime = DateTime.UtcNow.AddDays(7);
+            user.RefreshTokenExpiryTime = DateTime.UtcNow.AddDays(_jwtSettings.TokenExpiryTimeInDays);
 
             await _userManager.UpdateAsync(user);
 
@@ -111,7 +114,7 @@ namespace Infrastructure.Identity.Tokens
         {
             var token = new JwtSecurityToken(
                 claims: claims,
-                expires: DateTime.UtcNow.AddMinutes(60),
+                expires: DateTime.UtcNow.AddMinutes(_jwtSettings.TokenExpiryTimeInMinutes),
                 signingCredentials: signingCredentials);
 
             var tokenHandler = new JwtSecurityTokenHandler();
@@ -120,7 +123,7 @@ namespace Infrastructure.Identity.Tokens
 
         private SigningCredentials GetSigningCredentials()
         {
-            byte[] secret = Encoding.UTF8.GetBytes("EduT3n@nTD3v3l0p3R@@!!s01");
+            byte[] secret = Encoding.UTF8.GetBytes(_jwtSettings.Key);
             return new SigningCredentials(new SymmetricSecurityKey(secret), SecurityAlgorithms.HmacSha256);
         }
 

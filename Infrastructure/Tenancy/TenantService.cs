@@ -1,7 +1,7 @@
 ﻿using Application.Features.Tenancy;
 using Application.Features.Tenancy.Commands;
 using Application.Features.Tenancy.Models;
-using Finbuckle.MultiTenant.Abstractions;
+using Finbuckle.MultiTenant;
 using Infrastructure.Persistence.DbInitilizer;
 using Mapster;
 
