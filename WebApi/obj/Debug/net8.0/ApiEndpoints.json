@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "WebApi.Controllers.TokenController",
+    "Method": "GetTokenAsync",
+    "RelativePath": "api/Token/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenRequest",
+        "Type": "Application.Features.Identity.Tokens.TokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

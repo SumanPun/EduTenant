@@ -136,7 +136,7 @@ namespace Infrastructure.Identity.Tokens
                 new Claim(ClaimTypes.Name, user.FirstName),
                 new Claim(ClaimTypes.Surname, user.LastName),
                 new Claim(ClaimConstants.Tenant, _tenant.Id),
-                new Claim(ClaimTypes.MobilePhone, user.PhoneNumber)
+                new Claim(ClaimTypes.MobilePhone, user.PhoneNumber ?? string.Empty)
             ];
         }
 

@@ -1,5 +1,6 @@
 using Infrastructure;
 using Infrastructure.Persistence;
+using Application;
 
 namespace WebApi
 {
@@ -12,6 +13,7 @@ namespace WebApi
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddApplicationServices();
 
             builder.Services.AddInfrastructureServices(builder.Configuration);
 
@@ -24,7 +26,7 @@ namespace WebApi
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             app.MapControllers();
 

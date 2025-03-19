@@ -181,3 +181,7 @@ G:\Projects\Dot net project\EduTenant\WebApi\obj\Debug\net8.0\refint\WebApi.dll
 G:\Projects\Dot net project\EduTenant\WebApi\obj\Debug\net8.0\WebApi.pdb
 G:\Projects\Dot net project\EduTenant\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 G:\Projects\Dot net project\EduTenant\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+G:\Projects\Dot net project\EduTenant\WebApi\bin\Debug\net8.0\FluentValidation.dll
+G:\Projects\Dot net project\EduTenant\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Projects\Dot net project\EduTenant\WebApi\bin\Debug\net8.0\MediatR.dll
+G:\Projects\Dot net project\EduTenant\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll

@@ -3,119 +3,16 @@
   "WorkspaceRootPath": "G:\\Projects\\Dot net project\\EduTenant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbinitilizer\\applicationdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbinitilizer\\applicationdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\roles\\queries\\getrolewithpermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\roles\\queries\\getrolewithpermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbinitilizer\\tenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbinitilizer\\tenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\roles\\queries\\getrolebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\roles\\queries\\getrolebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\persistenceserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\persistenceserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\tenancy\\tenancyserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\tenancy\\tenancyserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\context\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\context\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\bbd51afdbf9d52b1e12a46564c5bae4764b27f5ad65df9435d046c4e5936ec53\\SqlConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbconfiguration\\applicationuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbconfiguration\\applicationuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\tenancy\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\tenancy\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbinitilizer\\itenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbinitilizer\\itenantdbinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\tenancy\\tenantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\tenancy\\tenantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\persistence\\dbconfiguration\\schemanames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\dbconfiguration\\schemanames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\tenancy\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\tenancy\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\tenancy\\edutenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\tenancy\\edutenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\migrations\\applicationdb\\20250317123910_appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\applicationdb\\20250317123910_appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\users\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\users\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\openapi\\swaggerserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\openapi\\swaggerserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\openapi\\swaggerglobalauthprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\openapi\\swaggerglobalauthprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\openapi\\swaggerheaderattributeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\openapi\\swaggerheaderattributeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\openapi\\tenantheaderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\openapi\\tenantheaderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\openapi\\swaggerheaderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\openapi\\swaggerheaderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\openapi\\swaggersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\openapi\\swaggersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\roles\\queries\\getrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\roles\\queries\\getrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -125,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,368 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TenantDbInitilizer.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\DbInitilizer\\TenantDbInitilizer.cs",
-              "ViewState": "AgIAACUAAABAzczMzMwuwDQAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetRoleWithPermissionsQuery.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Roles\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:58:36.142Z",
+              "WhenOpened": "2025-03-19T12:22:33.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersistenceServiceExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\PersistenceServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GetRoleByIdQuery.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\Queries\\GetRoleByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\Queries\\GetRoleByIdQuery.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\Queries\\GetRoleByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Roles\\Queries\\GetRoleByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:09:23.037Z",
+              "WhenOpened": "2025-03-19T12:19:24.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAEAAACAMzMzMzMLwBEAAAAMAAAAAAAAAA==",
+              "Title": "GetRolesQuery.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\Queries\\GetRolesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Roles\\Queries\\GetRolesQuery.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Roles\\Queries\\GetRolesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Roles\\Queries\\GetRolesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:16:42.515Z",
+              "WhenOpened": "2025-03-19T12:15:08.292Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TenancyServiceExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
-              "ViewState": "AgIAAAkAAAAgAAAAAAAqwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:29:03.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbInitilizer.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\DbInitilizer\\ApplicationDbInitilizer.cs",
-              "ViewState": "AgIAAB8AAAAAYmZmZmYcwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:49:00.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IdentityServiceExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\IdentityServiceExtensions.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:16:55.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseDbContext.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\Context\\BaseDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\BaseDbContext.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\Context\\BaseDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\BaseDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:24:08.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T11:54:47.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SqlConnection.cs",
-              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\bbd51afdbf9d52b1e12a46564c5bae4764b27f5ad65df9435d046c4e5936ec53\\SqlConnection.cs",
-              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\bbd51afdbf9d52b1e12a46564c5bae4764b27f5ad65df9435d046c4e5936ec53\\SqlConnection.cs [Read Only]",
-              "ViewState": "AgIAACoGAAAAAAAAAAAawDoGAAADAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:10:52.384Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationUserConfig.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbConfiguration\\ApplicationUserConfig.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbConfiguration\\ApplicationUserConfig.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbConfiguration\\ApplicationUserConfig.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\DbConfiguration\\ApplicationUserConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:25:12.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TenantService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenantService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenantService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenantService.cs",
-              "RelativeToolTip": "Infrastructure\\Tenancy\\TenantService.cs",
-              "ViewState": "AgIAAAkAAACAZmZmZmY0wAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:28:28.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ServiceCollectionExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAYAAACAmZmZmZkJwBAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:19:27.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ITenantDbInitilizer.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\DbInitilizer\\ITenantDbInitilizer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:59:11.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TenantDbContext.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:21:34.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SchemaNames.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbConfiguration\\SchemaNames.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DbConfiguration\\SchemaNames.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Persistence\\DbConfiguration\\SchemaNames.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\DbConfiguration\\SchemaNames.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:33:41.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Roles\\RoleService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAEYAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:21:10.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:50:08.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Users\\UserService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Users\\UserService.cs",
-              "ViewState": "AgIAAAsAAABAMzMzMzMbwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:24:26.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ITenantService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Tenancy\\ITenantService.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Tenancy\\ITenantService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Tenancy\\ITenantService.cs",
-              "RelativeToolTip": "Application\\Features\\Tenancy\\ITenantService.cs",
-              "ViewState": "AgIAAAUAAACQmZmZmZkpwAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:28:49.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EduTenantInfo.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\EduTenantInfo.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\EduTenantInfo.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\EduTenantInfo.cs",
-              "RelativeToolTip": "Infrastructure\\Tenancy\\EduTenantInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:22:08.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250317123910_appDbContext.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Migrations\\ApplicationDb\\20250317123910_appDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ApplicationDb\\20250317123910_appDbContext.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Migrations\\ApplicationDb\\20250317123910_appDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\ApplicationDb\\20250317123910_appDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:51:33.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T08:44:18.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CurrentUserService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\CurrentUserService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Users\\CurrentUserService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\CurrentUserService.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Users\\CurrentUserService.cs",
-              "ViewState": "AgIAACoAAACAmZmZmZkrwDgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:19:33.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SwaggerServiceExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\OpenApi\\SwaggerServiceExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerServiceExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\OpenApi\\SwaggerServiceExtensions.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:13:40.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SwaggerGlobalAuthProcessor.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerGlobalAuthProcessor.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\OpenApi\\SwaggerGlobalAuthProcessor.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerGlobalAuthProcessor.cs",
-              "RelativeToolTip": "Infrastructure\\OpenApi\\SwaggerGlobalAuthProcessor.cs",
-              "ViewState": "AgIAABIAAACgmZmZmZktwBcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T08:58:45.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SwaggerHeaderAttributeProcessor.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerHeaderAttributeProcessor.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\OpenApi\\SwaggerHeaderAttributeProcessor.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerHeaderAttributeProcessor.cs",
-              "RelativeToolTip": "Infrastructure\\OpenApi\\SwaggerHeaderAttributeProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T08:48:09.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TenantHeaderAttribute.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\TenantHeaderAttribute.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\OpenApi\\TenantHeaderAttribute.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\TenantHeaderAttribute.cs",
-              "RelativeToolTip": "Infrastructure\\OpenApi\\TenantHeaderAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T08:35:55.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "SwaggerHeaderAttribute.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerHeaderAttribute.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\OpenApi\\SwaggerHeaderAttribute.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerHeaderAttribute.cs",
-              "RelativeToolTip": "Infrastructure\\OpenApi\\SwaggerHeaderAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T08:33:07.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SwaggerSettings.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerSettings.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\OpenApi\\SwaggerSettings.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\OpenApi\\SwaggerSettings.cs",
-              "RelativeToolTip": "Infrastructure\\OpenApi\\SwaggerSettings.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T08:41:51.092Z"
             }
           ]
         },
