@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "G:\\Projects\\Dot net project\\EduTenant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,32 +19,16 @@
       "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\tenancy\\tenancyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\tokens\\queries\\gettokenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\tokens\\queries\\gettokenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\models\\wrapper\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\models\\wrapper\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\models\\wrapper\\iresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\models\\wrapper\\iresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,158 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T11:34:20.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Tokens\\TokenService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Tokens\\TokenService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Tokens\\TokenService.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Tokens\\TokenService.cs",
-              "ViewState": "AgIAAHoAAAAAoJmZmZkBwIoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:32:54.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ServiceCollectionExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:12:41.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TenancyServiceExtensions.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
               "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
               "RelativeToolTip": "Infrastructure\\Tenancy\\TenancyServiceExtensions.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAgMzMzMzMrwBwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:24:48.51Z",
+              "WhenOpened": "2025-03-20T10:09:10.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAMzMzMzPzvx0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:08:55.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TenancyConstants.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "RelativeToolTip": "Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Users\\UserService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Users\\UserService.cs",
+              "ViewState": "AgIAAJIAAACgzMzMzMwrwNcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:16:49.271Z",
+              "WhenOpened": "2025-03-20T10:05:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Roles\\RoleService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwEYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:05:16.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:15:21.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Application\\ServiceCollectionExtensions.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Application\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAcAAAAANDMzMzPjvwcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:13:01.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "TokenController.cs",
               "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\TokenController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\TokenController.cs",
               "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\TokenController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\TokenController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:01:23.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseApiController.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BaseApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:55:20.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetTokenQuery.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Tokens\\Queries\\GetTokenQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Tokens\\Queries\\GetTokenQuery.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Tokens\\Queries\\GetTokenQuery.cs",
-              "RelativeToolTip": "Application\\Features\\Identity\\Tokens\\Queries\\GetTokenQuery.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:45:21.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResponseWrapper.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Models\\Wrapper\\ResponseWrapper.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Wrapper\\ResponseWrapper.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Models\\Wrapper\\ResponseWrapper.cs",
-              "RelativeToolTip": "Application\\Models\\Wrapper\\ResponseWrapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:23:34.576Z",
+              "WhenOpened": "2025-03-20T10:00:38.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IResponseWrapper.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Models\\Wrapper\\IResponseWrapper.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Wrapper\\IResponseWrapper.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Models\\Wrapper\\IResponseWrapper.cs",
-              "RelativeToolTip": "Application\\Models\\Wrapper\\IResponseWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TenancyConstants.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyConstants.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tenancy\\TenancyConstants.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Tenancy\\TenancyConstants.cs",
+              "RelativeToolTip": "Infrastructure\\Tenancy\\TenancyConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:14:21.07Z",
+              "WhenOpened": "2025-03-20T09:35:51.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\RolesController.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAADMAAABAmpmZmZkZwEAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:18:39.064Z",
               "EditorCaption": ""
             }
           ]
