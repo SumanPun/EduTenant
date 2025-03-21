@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "G:\\Projects\\Dot net project\\EduTenant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\queries\\getschoolsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\queries\\getschoolsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\queries\\changeuserstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\queries\\changeuserstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|g:\\projects\\dot net project\\edutenant\\webapi\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C63F5A-B938-4A66-8722-2B1E50A9631A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\identity\\users\\commands\\updateuserstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\updateuserstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\queries\\getschoolbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\queries\\getschoolbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|g:\\projects\\dot net project\\edutenant\\infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD0B943-9645-4631-9C0F-54D7B631471B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\queries\\getschoolbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\queries\\getschoolbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\pipelines\\validationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\pipelines\\validationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\commands\\updateschoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\commands\\updateschoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\commands\\deleteschoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\commands\\deleteschoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\commands\\createschoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\commands\\createschoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\pipelines\\ivalidateme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\pipelines\\ivalidateme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\validators\\deleteschoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\validators\\deleteschoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\validators\\updateschoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\validators\\updateschoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\validators\\updateschoolrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\validators\\updateschoolrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\validators\\createschoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\validators\\createschoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|g:\\projects\\dot net project\\edutenant\\application\\features\\schools\\validators\\createschoolrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04920DE-BB8E-4E4F-BA56-E636331CD014}|Application\\Application.csproj|solutionrelative:application\\features\\schools\\validators\\createschoolrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,55 +82,194 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateUserStatusCommand.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetSchoolsQuery.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Queries\\GetSchoolsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Queries\\GetSchoolsQuery.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Queries\\GetSchoolsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Queries\\GetSchoolsQuery.cs",
+              "ViewState": "AgIAAAwAAACQmZmZmZkxwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:59:11.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChangeUserStatusRequest.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\Queries\\ChangeUserStatusRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Queries\\ChangeUserStatusRequest.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Identity\\Users\\Queries\\ChangeUserStatusRequest.cs",
-              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Queries\\ChangeUserStatusRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:58:15.582Z",
+              "WhenOpened": "2025-03-21T15:10:26.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Users\\UserService.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Infrastructure\\Identity\\Users\\UserService.cs",
-              "RelativeToolTip": "Infrastructure\\Identity\\Users\\UserService.cs",
-              "ViewState": "AgIAAA0AAAAwMzMzM7M4wCkAAAAiAAAAAAAAAA==",
+              "Title": "GetSchoolByNameQuery.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Queries\\GetSchoolByNameQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Queries\\GetSchoolByNameQuery.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Queries\\GetSchoolByNameQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Queries\\GetSchoolByNameQuery.cs",
+              "ViewState": "AgIAAAkAAADQzMzMzMw7wBgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:49:00.421Z",
+              "WhenOpened": "2025-03-21T15:10:00.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAB0AAABgZmZmZmYqwCkAAAB1AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetSchoolByIdQuery.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Queries\\GetSchoolByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Queries\\GetSchoolByIdQuery.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Queries\\GetSchoolByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Queries\\GetSchoolByIdQuery.cs",
+              "ViewState": "AgIAAAkAAACQmZmZmZkxwBcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:41:20.904Z",
+              "WhenOpened": "2025-03-21T15:08:08.131Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolsController.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\SchoolsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SchoolsController.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\WebApi\\Controllers\\SchoolsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\SchoolsController.cs",
+              "ViewState": "AgIAAD4AAABAZmZmZmY2wFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:55:45.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateSchoolCommand.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Commands\\UpdateSchoolCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Commands\\UpdateSchoolCommand.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Commands\\UpdateSchoolCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Commands\\UpdateSchoolCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:51:38.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteSchoolCommand.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Commands\\DeleteSchoolCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Commands\\DeleteSchoolCommand.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Commands\\DeleteSchoolCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Commands\\DeleteSchoolCommand.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:51:15.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceCollectionExtensions.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Application\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:48:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationPipelineBehaviour.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Pipelines\\ValidationPipelineBehaviour.cs",
+              "RelativeDocumentMoniker": "Application\\Pipelines\\ValidationPipelineBehaviour.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Pipelines\\ValidationPipelineBehaviour.cs",
+              "RelativeToolTip": "Application\\Pipelines\\ValidationPipelineBehaviour.cs",
+              "ViewState": "AgIAAAQAAAAgMzMzMzMrwAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:35:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSchoolCommand.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Commands\\CreateSchoolCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Commands\\CreateSchoolCommand.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Commands\\CreateSchoolCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Commands\\CreateSchoolCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:50:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IValidateMe.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Pipelines\\IValidateMe.cs",
+              "RelativeDocumentMoniker": "Application\\Pipelines\\IValidateMe.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Pipelines\\IValidateMe.cs",
+              "RelativeToolTip": "Application\\Pipelines\\IValidateMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:49:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteSchoolCommandValidator.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\DeleteSchoolCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Validators\\DeleteSchoolCommandValidator.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\DeleteSchoolCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Validators\\DeleteSchoolCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:11:50.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateSchoolCommandValidator.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\UpdateSchoolCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Validators\\UpdateSchoolCommandValidator.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\UpdateSchoolCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Validators\\UpdateSchoolCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:59:45.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateSchoolRequestValidator.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\UpdateSchoolRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Validators\\UpdateSchoolRequestValidator.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\UpdateSchoolRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Validators\\UpdateSchoolRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:58:21.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateSchoolRequestValidator.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\CreateSchoolRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Validators\\CreateSchoolRequestValidator.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\CreateSchoolRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Validators\\CreateSchoolRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:51:20.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateSchoolCommandValidator.cs",
+              "DocumentMoniker": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\CreateSchoolCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Schools\\Validators\\CreateSchoolCommandValidator.cs",
+              "ToolTip": "G:\\Projects\\Dot net project\\EduTenant\\Application\\Features\\Schools\\Validators\\CreateSchoolCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Schools\\Validators\\CreateSchoolCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:49:33.673Z"
             }
           ]
         },
