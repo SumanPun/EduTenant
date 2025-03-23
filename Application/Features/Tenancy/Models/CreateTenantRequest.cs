@@ -1,4 +1,4 @@
-﻿namespace Application.Features.Tenancy.Commands
+﻿namespace Application.Features.Tenancy.Models
 {
     public class CreateTenantRequest
     {

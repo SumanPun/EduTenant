@@ -19,8 +19,19 @@ namespace Infrastructure.Persistence.DbInitilizer
 
         public async Task InitilizeDatabaseAsync(CancellationToken cancellationToken)
         {
-            await InitilizeDefaultRolesAsync(cancellationToken);
-            await InitilizeAdminUserAsync();
+            if (_applicationDbContext.Database.GetMigrations().Any())
+            {
+                if((await _applicationDbContext.Database.GetPendingMigrationsAsync(cancellationToken)).Any())
+                {
+                    await _applicationDbContext.Database.MigrateAsync(cancellationToken);
+                }
+
+                if(await _applicationDbContext.Database.CanConnectAsync(cancellationToken))
+                {
+                    await InitilizeDefaultRolesAsync(cancellationToken);
+                    await InitilizeAdminUserAsync();
+                }
+            }
         }
 
         private async Task InitilizeDefaultRolesAsync(CancellationToken cancellationToken)
@@ -37,11 +48,15 @@ namespace Infrastructure.Persistence.DbInitilizer
                 //assign permissions to newly added role
                 if(roleName == RoleConstants.Basic)
                 {
-                    await AssaignPermissionsToRole(_applicationDbContext, SchoolPermissions.Basic, incomingRole, cancellationToken);
+                    await AssaignPermissionsToRole(SchoolPermissions.Basic, incomingRole, cancellationToken);
                 }
                 else if(roleName == RoleConstants.Admin)
                 {
-                    await AssaignPermissionsToRole(_applicationDbContext, SchoolPermissions.Admin, incomingRole, cancellationToken);
+                    await AssaignPermissionsToRole(SchoolPermissions.Admin, incomingRole, cancellationToken);
+                    if(_tenant.Id == TenancyConstants.Root.Id)
+                    {
+                        await AssaignPermissionsToRole(SchoolPermissions.Root, incomingRole, cancellationToken);
+                    }
                 }
 
             }
@@ -84,7 +99,6 @@ namespace Infrastructure.Persistence.DbInitilizer
         }
 
         private async Task AssaignPermissionsToRole(
-            ApplicationDbContext applicationDbContext,
             IReadOnlyList<SchoolPermission> rolePermissions,
             ApplicationRole currentRole, CancellationToken cancellationToken)
         {

@@ -2,6 +2,7 @@
 using Infrastructure.Identity.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace Infrastructure.Persistence.Context
 {
@@ -20,6 +21,18 @@ namespace Infrastructure.Persistence.Context
             base.OnModelCreating(builder);
 
             builder.ApplyConfigurationsFromAssembly(GetType().Assembly);
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            base.OnConfiguring(optionsBuilder);
+            if (!string.IsNullOrEmpty(TenantInfo.ConnectionString))
+            {
+                optionsBuilder.UseSqlServer(TenantInfo.ConnectionString, options =>
+                {
+                    options.MigrationsAssembly(Assembly.GetExecutingAssembly().FullName);
+                });
+            }
         }
     }
 }

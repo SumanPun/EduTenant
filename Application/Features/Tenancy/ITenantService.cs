@@ -1,5 +1,4 @@
-﻿using Application.Features.Tenancy.Commands;
-using Application.Features.Tenancy.Models;
+﻿using Application.Features.Tenancy.Models;
 
 namespace Application.Features.Tenancy
 {

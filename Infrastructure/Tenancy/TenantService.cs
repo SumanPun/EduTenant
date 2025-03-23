@@ -1,16 +1,17 @@
 ﻿using Application.Features.Tenancy;
-using Application.Features.Tenancy.Commands;
 using Application.Features.Tenancy.Models;
 using Finbuckle.MultiTenant;
 using Infrastructure.Persistence.DbInitilizer;
 using Mapster;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Infrastructure.Tenancy
 {
-    public class TenantService(IMultiTenantStore<EduTenantInfo> tenantStore, ApplicationDbInitilizer applicationDbInitilizer) : ITenantService
+    public class TenantService(IMultiTenantStore<EduTenantInfo> tenantStore, ApplicationDbInitilizer applicationDbInitilizer, IServiceProvider serviceProvider) : ITenantService
     {
         private readonly IMultiTenantStore<EduTenantInfo> _tenantStore = tenantStore;
         private readonly ApplicationDbInitilizer _applicationDbInitilizer = applicationDbInitilizer;
+        private readonly IServiceProvider _serviceProvider = serviceProvider;
 
         public async Task<string> ActivateAsync(string id)
         {
@@ -27,6 +28,7 @@ namespace Infrastructure.Tenancy
             var newTenant = new EduTenantInfo
             {
                 Id = createTenant.Identifier,
+                Identifier = createTenant.Identifier,
                 Name = createTenant.Name,
                 ConnectionString = createTenant.ConnectionString,
                 AdminEmail = createTenant.AdminEmail,
@@ -39,7 +41,14 @@ namespace Infrastructure.Tenancy
             // initilize tenant with users, user roles, roles, role permissions
             try
             {
-                await _applicationDbInitilizer.InitilizeDatabaseAsync(cancellationToken);
+                using var scope = _serviceProvider.CreateScope();
+                _serviceProvider.GetRequiredService<IMultiTenantContextAccessor>()
+                    .MultiTenantContext = new MultiTenantContext<EduTenantInfo>()
+                    {
+                        TenantInfo = newTenant
+                    };
+                await scope.ServiceProvider.GetRequiredService<ApplicationDbInitilizer>()
+                    .InitilizeDatabaseAsync(cancellationToken);
             }
             catch (Exception)
             {

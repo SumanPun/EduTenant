@@ -28,6 +28,7 @@ namespace WebApi
 
             //app.UseAuthorization();
 
+            app.UseMiddleware<ErrorHandlingMiddleware>();
             app.MapControllers();
 
             app.UseInfrastructure();

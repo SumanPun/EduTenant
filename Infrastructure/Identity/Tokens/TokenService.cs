@@ -22,6 +22,11 @@ namespace Infrastructure.Identity.Tokens
 
         public async Task<TokenResponse> LoginAsync(TokenRequest request)
         {
+            if (!_tenant.IsActive)
+            {
+                throw new UnAuthorizedException("Tenant Not Active. Please contact to admin.");
+            }
+
             var userInDb = await _userManager.FindByEmailAsync(request.Email) ?? throw new UnAuthorizedException("Authentication Invalid!!");
             if(!await _userManager.CheckPasswordAsync(userInDb, request.Password))
             {
